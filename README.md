@@ -98,4 +98,4 @@ Great for beginners to understand how models behave.
 
 ---
 
-If you want, I can also prepare a **super-small GitHub version** (5–6 lines) or a **separate “How to Play” section**.
+
